@@ -19,7 +19,7 @@ Presentasi tersebut paling sedikit terdiri dari :
 - Perusahaan berbasis di US tetapi diluncurkan di Brazil (itulah sebabnya beberapa informasi dalam bahasa Portugis)
 - Kita dapat menganggap semua pesanan telah terkirim (jadi abaikan 'order_status')
 
-## Reccommendation
+## Recommendation
 
 - Sebaiknya perusahaan melakukan **promosi pada jam-jam dengan aktivitas tertinggi** misal dengan cara:
 - 1. Pemberian **voucher khusus & diskon** yang berlaku pada pembelian **di hari kerja**. 
